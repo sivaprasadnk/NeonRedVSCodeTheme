@@ -1,0 +1,30 @@
+{
+  "name": "neon-red",
+  "displayName": "Neon Red",
+  "description": "Simple Neon-Red color theme",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Red-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "SivaprasadNK",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sivaprasadnk/NeonRedVSCodeTheme.git"
+
+  }
+
+
+
+}
